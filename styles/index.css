@@ -1,0 +1,62 @@
+.example {
+  font-weight: bold;
+  border: gray solid 1px;
+  padding: 10px; }
+  .example > * {
+    margin: 20px; }
+
+.example-center {
+  display: flex;
+  justify-content: center; }
+
+.button {
+  padding: 10px;
+  color: white;
+  border-radius: 10%;
+  font-weight: bold; }
+  .button-primary {
+    background-color: hotpink; }
+  .button-success {
+    background-color: green; }
+    .button-success:hover {
+      background-color: black; }
+  .button-danger {
+    background-color: red; }
+    .button-danger:hover {
+      background-color: #ff9999; }
+  .button-warning {
+    background-color: yellow; }
+    .button-warning:hover {
+      background-color: #ffff99; }
+  .button-info {
+    background-color: blue; }
+    .button-info:hover {
+      background-color: #9999ff; }
+  .button-light {
+    background-color: lightgray; }
+    .button-light:hover {
+      background-color: #878787; }
+  .button-dark {
+    background-color: darkgray; }
+    .button-dark:hover {
+      background-color: #f6f6f6; }
+  .button-link {
+    color: blue;
+    background-color: white;
+    border: none; }
+
+.menu {
+  width: 170px;
+  height: 220px;
+  background-color: lightgray; }
+  .menu-list {
+    padding: 20px;
+    list-style: none; }
+    .menu-list-item {
+      width: 100px;
+      height: 30px;
+      background-color: gray;
+      margin: 10px;
+      padding: 10px; }
+    .menu-list-link {
+      color: black; }
