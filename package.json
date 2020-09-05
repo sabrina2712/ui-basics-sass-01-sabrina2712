@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/dci-ber-fbw21/ui-basics-sass-01-sabrina2712#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
